@@ -1,4 +1,19 @@
-# Cab Booking Service
+# Cab Booking System 🚖
+
+This project is a **Database Management System** designed for a **Cab Booking Company** to manage and store data related to **bookings, customers, drivers, cabs, and locations**. It captures essential information to help efficiently run a cab booking business within a city.
+
+### Key Features:
+- **Customer & Driver Management**: Stores personal details, ride history, and account creation records.
+- **Cab Booking System**: Manages cab availability, booking records, and ride details.
+- **Pricing & Payment System**: Fixed pricing model for different vehicle categories and travel passes.
+- **Data Insights**: Helps analyze peak booking times, demand for car types, and location-based ride trends.
+
+For a **detailed project overview and instructions**, please refer to the [Project Overview.pdf](./Project%20Overview.pdf) file in this repository.
+
+---
+**Tech Stack**: MySQL, Python3, Java, JDBC, Oracle, HTML5, CSS3
+
+# To run this project follow below steps:
 
 **Requirements** : 
 1. Python3
