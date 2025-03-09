@@ -10,7 +10,7 @@
 
 
 **Instructions to run python file:**
-1. Open file named 'Script.py' on any python interpreter.
+1. Open file named 'script.py' on any python interpreter.
 2. Run File 
 3. Navigate through the Command line GUI and select any option. 
 
